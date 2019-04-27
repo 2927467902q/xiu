@@ -1,0 +1,10 @@
+#div3>img{
+	width: 100%;
+}
+#div3>div>img{
+	width: 30%;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-around;
+	margin-left: 5px;
+}
